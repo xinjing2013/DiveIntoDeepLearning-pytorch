@@ -1,4 +1,4 @@
-# 非常感谢：Datawhale开源社区、和伯禹、和鲸、aws组织的公益AI学习
+# 非常感谢：Datawhale开源社区、伯禹、和鲸、aws组织的公益AI学习
 ## 来自伯禹教育的教学课件https://www.boyuai.com/elites/course/cZu18YmweLv10OeV
 <br>
 课程大纲<br>
