@@ -1,16 +1,16 @@
-# ---
-来自伯禹教育的教学课件https://www.boyuai.com/elites/course/cZu18YmweLv10OeV
+# 非常感谢：Datawhale开源社区、和伯禹、和鲸、aws组织的公益AI学习
+## 来自伯禹教育的教学课件https://www.boyuai.com/elites/course/cZu18YmweLv10OeV
 <br>
 课程大纲<br>
-1     线性回归<br>
-2     Softmax与分类模型<br>
-3     多层感知机<br>
-4     过拟合、欠拟合及其解决方案<br>
-5     梯度消失、梯度爆炸<br>
-6     卷积神经网络基础<br>
-7     LeNet<br>
-8     卷积神经网络进阶<br>
-9     批量归一化和残差网络<br>
+01     线性回归<br>
+02     Softmax与分类模型<br>
+03     多层感知机<br>
+04     过拟合、欠拟合及其解决方案<br>
+05     梯度消失、梯度爆炸<br>
+06     卷积神经网络基础<br>
+07     LeNet<br>
+08     卷积神经网络进阶<br>
+09     批量归一化和残差网络<br>
 10    文本预处理<br>
 11    语言模型<br>
 12    循环神经网络基础<br>
